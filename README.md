@@ -21,4 +21,19 @@ I enjoy building structured, layered architectures and working with databases an
 ---
 [![](https://visitcount.itsvg.in/api?id=SWADHWANA&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 Projects
+
+### 🏦 Bank Management System
+Backend application built using layered architecture (Entity → DAO → Service).
+
+✔ CRUD Operations  
+✔ ORM Mapping using Hibernate  
+✔ Database integration with PostgreSQL  
+✔ Transaction handling  
+
+**Tech Stack:** Java, Maven, Hibernate, JPA, PostgreSQL  
+
+🔗 Repository:  
+https://github.com/SWADHWANA/Bank-Management-System
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
