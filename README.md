@@ -1,5 +1,11 @@
 # 💫 About Me:
-Aspiring Software Engineer with strong proficiency in Core Java, SQL, JDBC with experience in building enterprise-grade <br>applications. Skilled in layered architecture and backend data integration. Demonstrates the ability to analyze business <br>requirements and convert them into effective technical solutions, with a solid understanding of SDLC methodologies. Highly <br>motivated to upskill in Spring Boot, Linux, messaging systems, and DevOps to build scalable, reliable software systems. <br>
+# Hi, I'm Sahil Wadhwana 👋  
+
+## 💻 Backend Developer | Java | Hibernate | SQL
+
+I am a backend-focused developer specializing in Java-based enterprise applications.  
+I enjoy building structured, layered architectures and working with databases and ORM frameworks.
+<br>
 
 
 ## 🌐 Socials:
